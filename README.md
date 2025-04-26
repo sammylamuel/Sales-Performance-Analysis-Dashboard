@@ -11,5 +11,14 @@ This project is a valuable tool for sales managers and business analysts to trac
 - Sales by Region: Group the data by 'sales region' and calculate the total sales value and quantity sold for each region.
 - Sales by Channel: Group by 'sales channel' (e.g., Direct Sales, Distributor) to see how each sales channel is performing.
 - Sales by Salesperson: Evaluate the performance of individual salespeople by grouping the data by 'salesperson_id' and calculating total sales and quantities sold per salesperson.
+  [Dashboard Interaction](https://github.com/sammylamuel/Sales-Performance-Analysis-Dashboard/blob/main/Screenshot%202025-04-27%20002032.png)
+  ## Process
+## Data Transformation
+- Format the 'sales date' field into a proper date format so that Excel can handle it in calculations and analysis.
+- Verify that 'sales value' and 'sales quantity' are numeric.
+- use Excel’s *VALUE() function to convert any improperly formatted data.
+- Identify any missing or invalid data entries and handle them by either filling them in if possible or removing the affected rows
+- Ensure that your data is clean and structured
+
 
 
