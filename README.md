@@ -26,7 +26,7 @@ This project is a valuable tool for sales managers and business analysts to trac
   
  Dashboard![Screenshot 2025-04-27 002032](https://github.com/user-attachments/assets/4a75f09b-f4da-4eaa-8a91-18544b9943b5)
 
- ##Project Insight
+ ## Project Insight
 -The American region is the leading consumer region with leading sales
 -The instore sales channel performed better in other regions compared to Africa
 -Sales people in the American region performed better compared to their counterparts
