@@ -31,7 +31,7 @@ This project is a valuable tool for sales managers and business analysts to trac
 - The instore sales channel performed better in other regions compared to Africa
 - Sales people in the American region performed better compared to their counterparts
 - Sales declining in the last quarter of the year
-- underperforms of online channel in Africa
+- underperformance of online channel in Africa
 
   ## Conclusion
   To enhance overall performance, strategies should focus on:
