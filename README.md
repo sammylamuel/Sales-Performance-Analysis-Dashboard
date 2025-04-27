@@ -24,7 +24,8 @@ This project is a valuable tool for sales managers and business analysts to trac
 - Ensure that your data is clean and structured
 
   
- [Dashboard](![Screenshot 2025-04-27 002032](https://github.com/user-attachments/assets/d7e79902-a809-4341-a2eb-21017a4416d9)
+ [Dashboard](![Screenshot 2025-04-27 002032](https://github.com/user-attachments/assets/4a75f09b-f4da-4eaa-8a91-18544b9943b5)
+
 
 
 
