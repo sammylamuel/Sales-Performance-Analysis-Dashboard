@@ -38,6 +38,7 @@ This project is a valuable tool for sales managers and business analysts to trac
 -	Strengthening in-store and online sales channels in underperforming regions, particularly Africa
 -	Investigating and mitigating the causes of the Q4 sales decline.
 -	Leveraging the successful sales tactics from the American region to boost performance in other markets.
+  
 By implementing targeted improvements, the company can optimize regional performance, enhance sales channels, and ensure sustained growth across all markets.
 
 
